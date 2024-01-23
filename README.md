@@ -14,7 +14,7 @@ As a data scientist working on this project, your primary objective is to conduc
 This project is licensed under the MIT License, granting you the freedom to modify and distribute the code for personal or commercial purposes.
 
 ## Acknowledgements
-Thanks to IIT for providing the dataset and the community.
+Thanks to Spotify for providing the dataset and the community.
 
 ## Clone the repository
 git clone https://github.com/fabianfelix/IIT-Song-Cohorts.git
