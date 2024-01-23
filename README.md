@@ -10,6 +10,21 @@ The customer always looks forward to specialized treatment, whether shopping ove
 As a data scientist, you should perform exploratory data analysis and perform cluster analysis to create cohorts of songs. The goal is to gain a better understanding of the various factors that contribute to creating a cohort of songs.
 As a data scientist working on this project, your primary objective is to conduct exploratory data analysis (EDA) and perform cluster analysis to create cohorts of songs. The goal is to delve into the dataset, understand the various features that influence song categorization, and use clustering techniques to group songs with similar characteristics. These cohorts will then serve as the foundation for an improved recommendation system.
 
+## Project Tasks
+
+1. **Exploratory Data Analysis (EDA):** Investigate and understand the dataset, perform data cleaning, and explore the distribution of key features.
+
+2. **Recommend Albums Based on Popular Songs:** Utilize visualizations to identify albums with the highest average popularity and recommend them based on the number of popular songs.
+
+3. **Cluster Analysis:** Apply clustering algorithms to group songs into cohorts based on relevant features. Determine the optimal number of clusters, choose an appropriate clustering algorithm, and define each cluster based on the features.
+
+## Libraries needed
+
+- Pandas
+- scikit-learn
+- matplotlib
+- seaborn
+
 ## License
 This project is licensed under the MIT License, granting you the freedom to modify and distribute the code for personal or commercial purposes.
 
