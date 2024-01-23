@@ -1,4 +1,4 @@
-# IIT-Song-Cohorts
+# Song-Cohorts
 
 ## Project Overview
 Welcome to the IIT Song Cohorts project! This data science and machine learning project focus on creating cohorts of songs for Spotify, a popular audio streaming service. The objective is to enhance the song recommendation system by analyzing various features and grouping similar songs into cohorts. This project aims to provide a more personalized and engaging music experience for Spotify's users.
